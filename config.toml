@@ -1,0 +1,27 @@
+
+[Bot]
+  DisplayName = ""
+  Enabled = false
+  XUID = ""
+
+[Connection]
+  ProxyAddress = "127.0.0.1:19134"
+  RemoteAddress = "127.0.0.1:19132"
+
+[Rcon]
+  Enabled = false
+  Password = ""
+  Port = 19130
+
+[Server]
+  DisableXboxAuth = false
+  Ops = ["PersonalSpark46"]
+  ViewDistance = 12
+  Whitelist = true
+
+[WorldBorder]
+  Enabled = true
+  MaxX = 5008
+  MaxZ = 5008
+  MinX = -5008
+  MinZ = -5008
