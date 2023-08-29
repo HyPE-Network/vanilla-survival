@@ -5,8 +5,8 @@
   XUID = ""
 
 [Connection]
-  ProxyAddress = "127.0.0.1:19134"
-  RemoteAddress = "127.0.0.1:19132"
+  ProxyAddress = "0.0.0.0:19134"
+  RemoteAddress = "0.0.0.0:19132"
 
 [Rcon]
   Enabled = false
